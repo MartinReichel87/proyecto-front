@@ -10,7 +10,7 @@
     background-color: rgb(30,79,109);
 }
 .button-color2{
-
+width: 100%;
     background-color:rgb(150,201,62);
 }
 .button-color2:hover{
@@ -62,4 +62,28 @@ nav{
         position: static;
         background-color: rgb(43,47,51);
     }
+}
+
+/* css tickets.html */
+.cardt{
+    width: 216px;
+}
+
+.total{
+    background-color: rgb(204,229,255);
+    height: 50px;
+    border-radius: 10px;
+}
+.total p{
+    color: rgb(24,88,155);
+}
+
+.card_e{
+    border-color: rgb(27,136,253);
+}
+.card_t{
+border-color: rgb(48,170,190);
+}
+.card_j{
+border-color: rgb(253,198,34);
 }
